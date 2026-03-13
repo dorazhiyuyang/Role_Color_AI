@@ -47,7 +47,8 @@ python -m spacy download en_core_web_sm
 
 1. **Place your Resume:** Save your resume content as `resume.txt` in the project root.
 2. **Open the Notebook:** Launch `Role_Color_AI.ipynb` in Jupyter or VS Code.
-3. **Run All Cells:** * **Part 1 & 2** will output your RoleColor scores and dominant role.
+3. **Run All Cells:**
+* **Part 1 & 2** will output your RoleColor scores and dominant role.
 * **Part 3** will download the FLAN-T5 model (approx. 3GB) and generate your rewritten summary.
 
 
