@@ -1,0 +1,42 @@
+
+Emily Cox
+Machine Learning Engineer | ML Deployment | AWS | MLOps
++44 20 7123 4567
+linkedin.com
+Wolverhampton, UK
+With over 9 years of experience in machine learning, data science, and deploying ML models in AWS environments, I am passionate about driving business outcomes through data innovation. My strengths lie in Python programming, MLOps, and creating robust and scalable ML pipelines that directly enhance customer experience, demonstrated through a series of impactful projects and quantifiable achievements.
+
+Senior Machine Learning Engineer
+TechTonic Ltd
+
+01/2020 - Present 
+
+London, UK
+Pioneered a machine learning model to personalize customer product recommendations, enhancing user experience and boosting conversion rates by 18%.
+Streamlined data engineering processes with Apache Spark, reducing data preparation time by 35% while handling datasets exceeding 100TB.
+Implemented a real-time analytics system using Kafka and Tensorflow Serving to process and score user activities, yielding a 25% improvement in targeted advertising.
+Drove the migration of ML workflows to an AWS ecosystem, incorporating Sagemaker and achieving a 15% cost reduction with sustained performance efficiency.
+Optimized existing machine learning pipelines, resulting in a 20% increase in model accuracy for predictive maintenance applications.
+Led a cross-functional team of 5 data scientists and engineers to integrate best practices in MLOps, ensuring 99.9% uptime for critical ML products.
+Machine Learning Engineer
+DataQuantum
+
+06/2017 - 12/2019 
+
+Birmingham, UK
+Developed a sophisticated NLP algorithm for sentiment analysis that was instrumental in refining customer service strategies, benefiting over 500,000 users.
+Executed a scalable image recognition service which decreased the manual categorization workload by 40%.
+Contributed to the deployment of reinforcement learning techniques in marketing campaigns, influencing a 12% increase in customer retention.
+Enhanced operational efficiency by automating the A/B testing pipeline using Python, which accelerated testing pace by 50%.
+Cultivated a collaborative project implementing an anomaly detection system that safeguarded against fraudulent transactions, protecting approximately £2M in revenue.
+Data Scientist
+InnovAnalytics
+
+05/2014 - 05/2017 
+
+Manchester, UK
+Designed and executed a time series forecasting model for stock market trends with an 80% prediction accuracy.
+Automated the extraction and transformation of multi-source data, shortening the reporting cycle by 30%.
+Contributed to the development of a customer segmentation algorithm that enabled a more targeted marketing approach.
+Assisted in the creation of a predictive churn model which was instrumental in decreasing customer attrition by 10%.
+
